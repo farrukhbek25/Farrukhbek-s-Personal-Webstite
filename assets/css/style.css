@@ -439,9 +439,10 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("../img/IMG_1692.JPG") repeat scroll center center/cover;
+  background: url("../img/IMG_1692.JPG") repeat scroll left center/cover;
   height: 100vh;
   width: 100%;
+
 }
 
 #hero .hero-content {
